@@ -22,7 +22,7 @@
 2. **Запуск Unit тестов:** `./gradlew clean test`
 3. **Сборка JAR файла:** `./gradlew shadowJar`
 4. **Запуск приложения:** `java -jar build/libs/MatrixApp.jar`
-
+4. **Тестовые матрицы находятся в директории testMatrix:**
 
 
 ## Структура проекта
