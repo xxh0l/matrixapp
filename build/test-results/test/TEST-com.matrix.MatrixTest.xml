@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.matrix.MatrixTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2024-11-30T05:57:00" hostname="xxh0l" time="0.026">
+  <properties/>
+  <testcase name="testMultiplyMatricesInvalidDimensions()" classname="com.matrix.MatrixTest" time="0.009"/>
+  <testcase name="testAdd()" classname="com.matrix.MatrixTest" time="0.002"/>
+  <testcase name="testSubtract()" classname="com.matrix.MatrixTest" time="0.001"/>
+  <testcase name="testMultiplyMatrices()" classname="com.matrix.MatrixTest" time="0.0"/>
+  <testcase name="testConstructorWithData()" classname="com.matrix.MatrixTest" time="0.0"/>
+  <testcase name="testConstructorWithDimensions()" classname="com.matrix.MatrixTest" time="0.001"/>
+  <testcase name="testDeterminant()" classname="com.matrix.MatrixTest" time="0.001"/>
+  <testcase name="testAddInvalidDimensions()" classname="com.matrix.MatrixTest" time="0.001"/>
+  <testcase name="testSubMatrix()" classname="com.matrix.MatrixTest" time="0.001"/>
+  <testcase name="testMultiplyScalar()" classname="com.matrix.MatrixTest" time="0.001"/>
+  <testcase name="testSubtractInvalidDimensions()" classname="com.matrix.MatrixTest" time="0.001"/>
+  <testcase name="testSubMatrixEdgeCases()" classname="com.matrix.MatrixTest" time="0.001"/>
+  <testcase name="testDeterminantThreeByThree()" classname="com.matrix.MatrixTest" time="0.001"/>
+  <testcase name="testDeterminantNonSquareMatrix()" classname="com.matrix.MatrixTest" time="0.001"/>
+  <testcase name="testDeterminantOneByOne()" classname="com.matrix.MatrixTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
