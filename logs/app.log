@@ -1,0 +1,1112 @@
+18:43:20.480 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+18:43:29.015 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+18:43:29.015 [JavaFX Application Thread] ERROR com.matrix.GUI - Ошибка: Загрузите матрицы!
+18:43:34.892 [JavaFX Application Thread] INFO  com.matrix.GUI - Завершение приложения.
+18:50:42.073 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+19:00:26.654 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+19:16:00.095 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+19:28:23.291 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+19:32:47.667 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+19:33:13.075 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+19:33:28.127 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+20:01:31.457 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+20:01:38.039 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+20:01:38.040 [JavaFX Application Thread] ERROR com.matrix.GUI - Ошибка: Загрузите матрицы!
+20:01:42.972 [JavaFX Application Thread] INFO  com.matrix.GUI - Открыта вкладка загрузки файлов.
+20:01:44.478 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+20:01:44.479 [JavaFX Application Thread] ERROR com.matrix.GUI - Ошибка: Загрузите матрицы!
+20:01:46.983 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка 'Определитель'.
+20:01:46.983 [JavaFX Application Thread] ERROR com.matrix.GUI - Ошибка: Загрузите матрицы!
+20:01:49.931 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+20:01:49.932 [JavaFX Application Thread] ERROR com.matrix.GUI - Ошибка: Загрузите матрицы!
+20:01:54.761 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка 'Определитель'.
+20:01:54.762 [JavaFX Application Thread] ERROR com.matrix.GUI - Ошибка: Загрузите матрицы!
+20:53:15.127 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+20:53:20.386 [JavaFX Application Thread] INFO  com.matrix.GUI - Открыта вкладка загрузки файлов.
+21:04:35.088 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+21:04:37.782 [JavaFX Application Thread] INFO  com.matrix.GUI - Открыта вкладка загрузки файлов.
+21:04:40.315 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+21:04:40.316 [JavaFX Application Thread] ERROR com.matrix.GUI - Ошибка: Загрузите матрицы!
+21:04:48.409 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка 'Определитель'.
+21:04:48.409 [JavaFX Application Thread] ERROR com.matrix.GUI - Ошибка: Загрузите матрицы!
+21:04:51.733 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+21:04:51.734 [JavaFX Application Thread] ERROR com.matrix.GUI - Ошибка: Загрузите матрицы!
+21:04:55.283 [JavaFX Application Thread] INFO  com.matrix.GUI - Завершение приложения.
+21:23:21.485 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+21:48:12.444 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+13:34:01.152 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+13:39:39.292 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+13:42:18.923 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+13:51:57.204 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+13:52:40.237 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+13:54:16.905 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+14:03:24.933 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+14:03:37.702 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+14:03:41.451 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+14:03:41.452 [JavaFX Application Thread] ERROR com.matrix.GUI - Ошибка: Загрузите матрицы!
+14:03:44.251 [JavaFX Application Thread] INFO  com.matrix.GUI - Завершение приложения.
+14:46:39.974 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+14:51:36.112 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+14:52:08.418 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+14:52:09.524 [JavaFX Application Thread] INFO  com.matrix.GUI - Открыта вкладка загрузки файлов.
+14:52:21.980 [JavaFX Application Thread] INFO  com.matrix.GUI - Матрицы успешно загружены.
+14:52:23.113 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+14:52:23.114 [JavaFX Application Thread] ERROR com.matrix.GUI - Ошибка: Для сложения матрицы должны иметь одинаковую размерность.
+14:52:25.870 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка 'Определитель'.
+14:52:25.870 [JavaFX Application Thread] INFO  com.matrix.GUI - Вычисление определителей.
+14:52:50.812 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+14:52:52.204 [JavaFX Application Thread] INFO  com.matrix.GUI - Открыта вкладка загрузки файлов.
+14:53:15.322 [JavaFX Application Thread] INFO  com.matrix.GUI - Матрицы успешно загружены.
+14:53:16.410 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+14:53:16.411 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x0000743ba82dde58@541e4be3
+14:53:23.893 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+14:53:23.894 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x0000743ba82f85e0@73d1c747
+14:53:27.561 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+14:53:27.561 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x0000743ba82f87f0@1b7b9925
+14:53:30.399 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка 'Определитель'.
+14:53:30.400 [JavaFX Application Thread] INFO  com.matrix.GUI - Вычисление определителей.
+14:53:35.422 [JavaFX Application Thread] INFO  com.matrix.GUI - Завершение приложения.
+14:59:15.650 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+14:59:59.102 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+15:18:52.980 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+15:18:58.506 [JavaFX Application Thread] INFO  com.matrix.GUI - Открыта вкладка загрузки файлов.
+15:19:36.782 [JavaFX Application Thread] INFO  com.matrix.GUI - Матрицы успешно загружены.
+15:19:38.275 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+15:19:38.275 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00007b07582dadf8@1c503edf
+15:42:37.833 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+14:24:49.847 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+14:24:59.227 [Test worker] ERROR com.matrix.Matrix - Создана матрица.
+14:24:59.230 [Test worker] ERROR com.matrix.Matrix - Создана матрица.
+14:24:59.237 [Test worker] ERROR com.matrix.Matrix - Создана матрица.
+14:24:59.237 [Test worker] ERROR com.matrix.Matrix - Создана матрица.
+14:24:59.239 [Test worker] ERROR com.matrix.Matrix - Создана матрица.
+14:24:59.241 [Test worker] ERROR com.matrix.Matrix - Создана матрица.
+14:24:59.241 [Test worker] ERROR com.matrix.Matrix - Создана матрица.
+14:24:59.243 [Test worker] ERROR com.matrix.Matrix - Создана матрица.
+14:24:59.244 [Test worker] ERROR com.matrix.Matrix - Создана матрица.
+14:24:59.244 [Test worker] ERROR com.matrix.Matrix - Создана матрица.
+14:24:59.246 [Test worker] ERROR com.matrix.Matrix - Создана матрица.
+14:24:59.246 [Test worker] ERROR com.matrix.Matrix - Создана матрица.
+14:24:59.247 [Test worker] ERROR com.matrix.Matrix - Создана матрица.
+14:24:59.248 [Test worker] ERROR com.matrix.Matrix - Создана матрица.
+14:24:59.249 [Test worker] ERROR com.matrix.Matrix - Создана матрица.
+14:26:13.551 [Test worker] INFO  com.matrix.MatrixTest - Тест выполнен.
+14:28:32.220 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:28:32.223 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:28:32.230 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:28:32.231 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:28:32.232 [Test worker] INFO  com.matrix.MatrixTest - Тест выполнен.
+14:28:32.234 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:28:32.235 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:28:32.235 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:28:32.237 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:28:32.239 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:28:32.239 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:28:32.241 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:28:32.241 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:28:32.242 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:28:32.243 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:28:32.244 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:30:39.015 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 14 started executing tests.
+14:30:39.138 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:30:39.138 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:30:39.144 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:30:39.144 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:30:39.146 [Test worker] INFO  com.matrix.MatrixTest - Тест выполнен.
+14:30:39.147 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:30:39.148 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:30:39.148 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:30:39.150 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:30:39.151 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:30:39.151 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:30:39.152 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:30:39.152 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:30:39.153 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:30:39.153 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:30:39.154 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:30:39.158 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 14 finished executing tests.
+14:31:06.985 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 15 started executing tests.
+14:31:07.106 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:31:07.107 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:31:07.114 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:31:07.115 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:31:07.117 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:31:07.118 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:31:07.118 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:31:07.119 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:31:07.120 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:31:07.120 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:31:07.121 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:31:07.122 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:31:07.123 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:31:07.123 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:31:07.124 [Test worker] INFO  com.matrix.Matrix - Готово.
+14:31:07.127 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 15 finished executing tests.
+19:08:46.992 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+19:08:49.279 [JavaFX Application Thread] INFO  com.matrix.GUI - Открыта вкладка загрузки файлов.
+19:09:10.359 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Документы/1.txt
+19:09:10.361 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Документы/2.txt
+19:09:10.362 [JavaFX Application Thread] INFO  com.matrix.GUI - Матрицы успешно загружены.
+19:09:11.435 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:09:11.436 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00000007c03cac38@4abab4f0
+19:09:14.162 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:09:14.163 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00000007c03cac38@4abab4f0
+19:09:14.989 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:09:14.990 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00000007c03d27c0@2628c3ba
+19:09:15.806 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:09:15.807 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00000007c03d2bb8@ee9151
+19:09:17.864 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка 'Определитель'.
+19:09:17.865 [JavaFX Application Thread] INFO  com.matrix.GUI - Вычисление определителей.
+19:09:17.869 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+19:09:17.871 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+19:09:19.285 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:09:19.286 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00000007c03d2bb8@ee9151
+19:09:20.265 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:09:20.266 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00000007c03d27c0@2628c3ba
+19:09:21.608 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:09:21.609 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00000007c03cac38@4abab4f0
+19:09:22.826 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:09:22.827 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00000007c03d27c0@2628c3ba
+19:09:25.422 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:09:25.423 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00000007c03d27c0@2628c3ba
+19:09:25.898 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:09:25.899 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00000007c03d2bb8@ee9151
+19:09:26.829 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:09:26.830 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00000007c03d2bb8@ee9151
+19:09:27.598 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:09:27.599 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00000007c03d2bb8@ee9151
+19:11:26.065 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка 'Определитель'.
+19:11:26.066 [JavaFX Application Thread] INFO  com.matrix.GUI - Вычисление определителей.
+19:11:26.067 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+19:11:26.067 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+19:11:34.914 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка 'Определитель'.
+19:11:34.914 [JavaFX Application Thread] INFO  com.matrix.GUI - Вычисление определителей.
+19:11:34.916 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+19:11:34.917 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+19:11:36.999 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:11:37.000 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00000007c03d2bb8@ee9151
+19:11:38.328 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:11:38.328 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00000007c03d27c0@2628c3ba
+19:11:39.658 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:11:39.658 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00000007c03cac38@4abab4f0
+19:11:40.421 [JavaFX Application Thread] INFO  com.matrix.GUI - Открыта вкладка загрузки файлов.
+19:11:46.645 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка 'Определитель'.
+19:11:46.645 [JavaFX Application Thread] INFO  com.matrix.GUI - Вычисление определителей.
+19:11:46.647 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+19:11:46.647 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+19:19:26.606 [JavaFX Application Thread] INFO  com.matrix.GUI - Запуск приложения.
+19:19:28.508 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:19:28.509 [JavaFX Application Thread] ERROR com.matrix.GUI - Ошибка: Загрузите матрицы!
+19:19:32.000 [JavaFX Application Thread] INFO  com.matrix.GUI - Открыта вкладка загрузки файлов.
+19:19:46.574 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Документы/1.txt
+19:19:46.577 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Документы/2.txt
+19:19:46.577 [JavaFX Application Thread] INFO  com.matrix.GUI - Матрицы успешно загружены.
+19:19:47.629 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:19:47.629 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+19:19:47.629 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00000007c03ead40@282c6fa4
+19:19:50.618 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:19:50.619 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+19:19:50.620 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00000007c0403ba0@27aca8
+19:19:55.092 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка операции с матрицами.
+19:19:55.092 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+19:19:55.093 [JavaFX Application Thread] INFO  com.matrix.GUI - Выполнена операция: com.matrix.GUI$$Lambda/0x00000007c0397ac8@7b69cf9c
+19:19:57.800 [JavaFX Application Thread] INFO  com.matrix.GUI - Нажата кнопка 'Определитель'.
+19:19:57.801 [JavaFX Application Thread] INFO  com.matrix.GUI - Вычисление определителей.
+19:19:57.804 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+19:19:57.805 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+19:20:01.092 [JavaFX Application Thread] INFO  com.matrix.GUI - Завершение приложения.
+19:25:53.694 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+19:25:56.285 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Нажата кнопка операции с матрицами.
+19:25:56.286 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Загрузите матрицы!
+19:25:58.822 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Открыта вкладка загрузки файлов.
+19:29:04.773 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+19:29:06.007 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Открыта вкладка загрузки файлов.
+19:30:21.281 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix1.txt
+19:30:21.283 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix2.txt
+19:30:21.283 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Матрицы успешно загружены.
+19:30:22.476 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Нажата кнопка операции с матрицами.
+19:30:22.477 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+19:30:22.478 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Выполнена операция: com.matrix.MatrixGUI$$Lambda/0x00000007c03d3728@75bbef24
+19:30:24.975 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Нажата кнопка операции с матрицами.
+19:30:24.976 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+19:30:24.976 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Выполнена операция: com.matrix.MatrixGUI$$Lambda/0x00000007c03f0f18@30825208
+19:30:26.102 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Нажата кнопка операции с матрицами.
+19:30:26.103 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+19:30:26.124 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Выполнена операция: com.matrix.MatrixGUI$$Lambda/0x00000007c03f1128@6fef4785
+19:30:27.622 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Нажата кнопка 'Определитель'.
+19:30:27.623 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Вычисление определителей.
+19:30:27.627 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+19:30:27.628 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+19:30:29.561 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Завершение приложения.
+19:37:27.593 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+19:49:20.156 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+19:49:22.062 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Нажата кнопка операции с матрицами.
+19:49:22.062 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Загрузите матрицы!
+19:53:53.771 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 1 started executing tests.
+19:53:53.906 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+19:53:53.908 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+19:53:53.912 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 1 finished executing tests.
+19:57:11.121 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 2 started executing tests.
+19:57:11.250 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+19:57:11.252 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+19:57:11.253 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+19:57:11.258 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+19:57:11.261 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+19:57:11.266 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 2 finished executing tests.
+19:59:40.514 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 3 started executing tests.
+19:59:40.635 [Test worker] INFO  com.matrix.MatrixTest - testMultiplyMatricesInvalidDimensions passed
+19:59:40.640 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+19:59:40.641 [Test worker] INFO  com.matrix.MatrixTest - testAdd passed
+19:59:40.642 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+19:59:40.643 [Test worker] INFO  com.matrix.MatrixTest - testSubtract passed
+19:59:40.644 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+19:59:40.644 [Test worker] INFO  com.matrix.MatrixTest - testMultiplyMatrices passed
+19:59:40.645 [Test worker] INFO  com.matrix.MatrixTest - testConstructorWithData passed
+19:59:40.646 [Test worker] INFO  com.matrix.MatrixTest - testConstructorWithDimensions passed
+19:59:40.647 [Test worker] INFO  com.matrix.MatrixTest - testDeterminant passed
+19:59:40.648 [Test worker] INFO  com.matrix.MatrixTest - testAddInvalidDimensions passed
+19:59:40.649 [Test worker] INFO  com.matrix.MatrixTest - testSubMatrix passed
+19:59:40.650 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+19:59:40.650 [Test worker] INFO  com.matrix.MatrixTest - testMultiplyScalar passed
+19:59:40.652 [Test worker] INFO  com.matrix.MatrixTest - testSubtractInvalidDimensions passed
+19:59:40.652 [Test worker] INFO  com.matrix.MatrixTest - testSubMatrixEdgeCases passed
+19:59:40.653 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+19:59:40.653 [Test worker] INFO  com.matrix.MatrixTest - testDeterminantThreeByThree passed
+19:59:40.654 [Test worker] INFO  com.matrix.MatrixTest - testDeterminantNonSquareMatrix passed
+19:59:40.655 [Test worker] INFO  com.matrix.MatrixTest - testDeterminantOneByOne passed
+19:59:40.659 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 3 finished executing tests.
+20:00:14.733 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 4 started executing tests.
+20:00:14.855 [Test worker] INFO  com.matrix.MatrixTest - testMultiplyMatricesInvalidDimensions пройден.
+20:00:14.860 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+20:00:14.861 [Test worker] INFO  com.matrix.MatrixTest - testAdd пройден.
+20:00:14.862 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+20:00:14.862 [Test worker] INFO  com.matrix.MatrixTest - testSubtract пройден.
+20:00:14.863 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+20:00:14.863 [Test worker] INFO  com.matrix.MatrixTest - testMultiplyMatrices пройден.
+20:00:14.864 [Test worker] INFO  com.matrix.MatrixTest - testConstructorWithData пройден.
+20:00:14.865 [Test worker] INFO  com.matrix.MatrixTest - testConstructorWithDimensions пройден.
+20:00:14.866 [Test worker] INFO  com.matrix.MatrixTest - testDeterminant пройден.
+20:00:14.868 [Test worker] INFO  com.matrix.MatrixTest - testAddInvalidDimensions пройден.
+20:00:14.869 [Test worker] INFO  com.matrix.MatrixTest - testSubMatrix пройден.
+20:00:14.870 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+20:00:14.870 [Test worker] INFO  com.matrix.MatrixTest - testMultiplyScalar пройден.
+20:00:14.871 [Test worker] INFO  com.matrix.MatrixTest - testSubtractInvalidDimensions пройден.
+20:00:14.872 [Test worker] INFO  com.matrix.MatrixTest - testSubMatrixEdgeCases пройден.
+20:00:14.873 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+20:00:14.873 [Test worker] INFO  com.matrix.MatrixTest - testDeterminantThreeByThree пройден.
+20:00:14.874 [Test worker] INFO  com.matrix.MatrixTest - testDeterminantNonSquareMatrix пройден.
+20:00:14.875 [Test worker] INFO  com.matrix.MatrixTest - testDeterminantOneByOne пройден.
+20:00:14.878 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 4 finished executing tests.
+20:13:56.623 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 5 started executing tests.
+20:13:56.761 [Test worker] INFO  com.matrix.MatrixTest - testMultiplyMatricesInvalidDimensions пройден.
+20:13:56.766 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+20:13:56.767 [Test worker] INFO  com.matrix.MatrixTest - testAdd пройден.
+20:13:56.768 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+20:13:56.768 [Test worker] INFO  com.matrix.MatrixTest - testSubtract пройден.
+20:13:56.769 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+20:13:56.769 [Test worker] INFO  com.matrix.MatrixTest - testMultiplyMatrices пройден.
+20:13:56.770 [Test worker] INFO  com.matrix.MatrixTest - testConstructorWithData пройден.
+20:13:56.771 [Test worker] INFO  com.matrix.MatrixTest - testConstructorWithDimensions пройден.
+20:13:56.772 [Test worker] INFO  com.matrix.MatrixTest - testDeterminant пройден.
+20:13:56.773 [Test worker] INFO  com.matrix.MatrixTest - testAddInvalidDimensions пройден.
+20:13:56.774 [Test worker] INFO  com.matrix.MatrixTest - testSubMatrix пройден.
+20:13:56.775 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+20:13:56.775 [Test worker] INFO  com.matrix.MatrixTest - testMultiplyScalar пройден.
+20:13:56.776 [Test worker] INFO  com.matrix.MatrixTest - testSubtractInvalidDimensions пройден.
+20:13:56.777 [Test worker] INFO  com.matrix.MatrixTest - testSubMatrixEdgeCases пройден.
+20:13:56.778 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+20:13:56.778 [Test worker] INFO  com.matrix.MatrixTest - testDeterminantThreeByThree пройден.
+20:13:56.779 [Test worker] INFO  com.matrix.MatrixTest - testDeterminantNonSquareMatrix пройден.
+20:13:56.780 [Test worker] INFO  com.matrix.MatrixTest - testDeterminantOneByOne пройден.
+20:13:56.783 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 5 finished executing tests.
+20:14:08.049 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+20:14:09.575 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Открыта вкладка загрузки файлов.
+20:14:12.749 [JavaFX Application Thread] WARN  com.matrix.MatrixGUI - Загрузите матрицы!
+20:14:12.750 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Загрузите матрицы!
+20:14:19.080 [JavaFX Application Thread] WARN  com.matrix.MatrixGUI - Загрузите матрицы!
+20:14:19.080 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Загрузите матрицы!
+20:14:21.355 [JavaFX Application Thread] WARN  com.matrix.MatrixGUI - Загрузите матрицы!
+20:14:21.355 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Загрузите матрицы!
+20:14:23.378 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Нажата кнопка 'Определитель'.
+20:14:23.379 [JavaFX Application Thread] WARN  com.matrix.MatrixGUI - Загрузите матрицы!
+20:14:23.379 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Загрузите матрицы!
+20:14:25.055 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Завершение приложения.
+20:14:30.977 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+20:14:32.346 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Открыта вкладка загрузки файлов.
+20:14:42.005 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix1.txt
+20:14:42.007 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix2.txt
+20:14:42.008 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Матрицы успешно загружены.
+20:14:43.657 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+20:14:43.658 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Выполнена операция: com.matrix.MatrixGUI$$Lambda/0x00000007c03d3d58@12032931
+20:14:45.055 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+20:14:45.056 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Выполнена операция: com.matrix.MatrixGUI$$Lambda/0x00000007c03f20e0@5f817eaf
+20:14:46.372 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+20:14:46.372 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Выполнена операция: com.matrix.MatrixGUI$$Lambda/0x00000007c03f24d8@14087d9a
+20:14:48.765 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Нажата кнопка 'Определитель'.
+20:14:48.766 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Вычисление определителей.
+20:14:48.769 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+20:14:48.771 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+20:15:07.425 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Завершение приложения.
+20:18:31.000 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+20:18:32.553 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Открыта вкладка загрузки файлов.
+20:18:41.874 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix1.txt
+20:18:41.876 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix2.txt
+20:18:41.876 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Матрицы успешно загружены.
+20:18:44.340 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+20:18:44.340 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Выполнена операция создания вкладок.
+20:18:49.435 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+20:18:49.436 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Выполнена операция создания вкладок.
+20:18:50.750 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Нажата кнопка 'Определитель'.
+20:18:50.750 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Вычисление определителей.
+20:18:50.753 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+20:18:50.754 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+20:18:51.583 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Завершение приложения.
+13:37:09.430 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 1 started executing tests.
+13:37:09.560 [Test worker] INFO  com.matrix.MatrixTest - testMultiplyMatricesInvalidDimensions пройден.
+13:37:09.565 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+13:37:09.566 [Test worker] INFO  com.matrix.MatrixTest - testAdd пройден.
+13:37:09.568 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+13:37:09.568 [Test worker] INFO  com.matrix.MatrixTest - testSubtract пройден.
+13:37:09.570 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+13:37:09.570 [Test worker] INFO  com.matrix.MatrixTest - testMultiplyMatrices пройден.
+13:37:09.572 [Test worker] INFO  com.matrix.MatrixTest - testConstructorWithData пройден.
+13:37:09.574 [Test worker] INFO  com.matrix.MatrixTest - testConstructorWithDimensions пройден.
+13:37:09.576 [Test worker] INFO  com.matrix.MatrixTest - testDeterminant пройден.
+13:37:09.578 [Test worker] INFO  com.matrix.MatrixTest - testAddInvalidDimensions пройден.
+13:37:09.579 [Test worker] INFO  com.matrix.MatrixTest - testSubMatrix пройден.
+13:37:09.581 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+13:37:09.581 [Test worker] INFO  com.matrix.MatrixTest - testMultiplyScalar пройден.
+13:37:09.583 [Test worker] INFO  com.matrix.MatrixTest - testSubtractInvalidDimensions пройден.
+13:37:09.584 [Test worker] INFO  com.matrix.MatrixTest - testSubMatrixEdgeCases пройден.
+13:37:09.585 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+13:37:09.585 [Test worker] INFO  com.matrix.MatrixTest - testDeterminantThreeByThree пройден.
+13:37:09.586 [Test worker] INFO  com.matrix.MatrixTest - testDeterminantNonSquareMatrix пройден.
+13:37:09.587 [Test worker] INFO  com.matrix.MatrixTest - testDeterminantOneByOne пройден.
+13:37:09.590 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 1 finished executing tests.
+13:39:26.211 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+13:39:28.052 [JavaFX Application Thread] WARN  com.matrix.MatrixGUI - Загрузите матрицы!
+13:39:28.052 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Загрузите матрицы!
+13:49:32.741 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+13:51:04.286 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+13:51:21.468 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 2 started executing tests.
+13:51:21.583 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatricesInvalidDimensions выполнен.
+13:51:21.588 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+13:51:21.589 [Test worker] INFO  com.matrix.MatrixTest - Тест testAdd выполнен.
+13:51:21.590 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+13:51:21.590 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtract выполнен.
+13:51:21.591 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+13:51:21.591 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatrices выполнен.
+13:51:21.592 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithData выполнен.
+13:51:21.593 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithDimensions выполнен.
+13:51:21.594 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminant выполнен.
+13:51:21.595 [Test worker] INFO  com.matrix.MatrixTest - Тест testAddInvalidDimensions выполнен.
+13:51:21.597 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrix выполнен.
+13:51:21.597 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+13:51:21.598 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyScalar выполнен.
+13:51:21.599 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtractInvalidDimensions выполнен.
+13:51:21.599 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrixEdgeCases выполнен.
+13:51:21.600 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+13:51:21.600 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantThreeByThree выполнен.
+13:51:21.601 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantNonSquareMatrix выполнен.
+13:51:21.602 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantOneByOne выполнен.
+13:51:21.605 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 2 finished executing tests.
+13:55:06.844 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 3 started executing tests.
+13:55:06.965 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatricesInvalidDimensions выполнен.
+13:55:06.971 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+13:55:06.971 [Test worker] INFO  com.matrix.MatrixTest - Тест testAdd выполнен.
+13:55:06.973 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+13:55:06.973 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtract выполнен.
+13:55:06.974 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+13:55:06.974 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatrices выполнен.
+13:55:06.975 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithData выполнен.
+13:55:06.977 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithDimensions выполнен.
+13:55:06.978 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminant выполнен.
+13:55:06.979 [Test worker] INFO  com.matrix.MatrixTest - Тест testAddInvalidDimensions выполнен.
+13:55:06.980 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrix выполнен.
+13:55:06.981 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+13:55:06.981 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyScalar выполнен.
+13:55:06.982 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtractInvalidDimensions выполнен.
+13:55:06.983 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrixEdgeCases выполнен.
+13:55:06.984 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+13:55:06.984 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantThreeByThree выполнен.
+13:55:06.985 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantNonSquareMatrix выполнен.
+13:55:06.986 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantOneByOne выполнен.
+13:55:06.990 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 3 finished executing tests.
+13:55:14.338 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+13:55:15.864 [JavaFX Application Thread] WARN  com.matrix.MatrixGUI - Загрузите матрицы!
+13:55:15.865 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Загрузите матрицы!
+13:55:18.770 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Открыта вкладка загрузки файлов.
+13:55:39.870 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+13:55:40.980 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Открыта вкладка загрузки файлов.
+13:55:52.082 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix1.txt
+13:55:52.084 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix2.txt
+13:55:52.084 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Матрицы успешно загружены.
+13:55:53.354 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+13:55:53.354 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Выполнена операция создания вкладок.
+13:55:54.723 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+13:55:54.724 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Выполнена операция создания вкладок.
+13:55:56.443 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+13:55:56.444 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Выполнена операция создания вкладок.
+13:55:57.831 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Нажата кнопка 'Определитель'.
+13:55:57.831 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Вычисление определителей.
+13:55:57.834 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+13:55:57.836 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+13:57:46.862 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+13:57:49.604 [JavaFX Application Thread] WARN  com.matrix.MatrixGUI - Загрузите матрицы!
+13:57:49.605 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Загрузите матрицы!
+13:59:01.901 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+13:59:03.686 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Загрузите матрицы!
+13:59:56.766 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 4 started executing tests.
+13:59:56.885 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatricesInvalidDimensions выполнен.
+13:59:56.889 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+13:59:56.890 [Test worker] INFO  com.matrix.MatrixTest - Тест testAdd выполнен.
+13:59:56.891 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+13:59:56.891 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtract выполнен.
+13:59:56.892 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+13:59:56.892 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatrices выполнен.
+13:59:56.893 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithData выполнен.
+13:59:56.894 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithDimensions выполнен.
+13:59:56.895 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminant выполнен.
+13:59:56.897 [Test worker] INFO  com.matrix.MatrixTest - Тест testAddInvalidDimensions выполнен.
+13:59:56.897 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrix выполнен.
+13:59:56.898 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+13:59:56.898 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyScalar выполнен.
+13:59:56.899 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtractInvalidDimensions выполнен.
+13:59:56.900 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrixEdgeCases выполнен.
+13:59:56.901 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+13:59:56.901 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantThreeByThree выполнен.
+13:59:56.903 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantNonSquareMatrix выполнен.
+13:59:56.904 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantOneByOne выполнен.
+13:59:56.907 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 4 finished executing tests.
+14:00:05.837 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+14:05:05.306 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+14:05:13.381 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 5 started executing tests.
+14:05:13.500 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatricesInvalidDimensions выполнен.
+14:05:13.505 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+14:05:13.505 [Test worker] INFO  com.matrix.MatrixTest - Тест testAdd выполнен.
+14:05:13.507 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+14:05:13.507 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtract выполнен.
+14:05:13.508 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+14:05:13.508 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatrices выполнен.
+14:05:13.509 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithData выполнен.
+14:05:13.510 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithDimensions выполнен.
+14:05:13.511 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminant выполнен.
+14:05:13.513 [Test worker] INFO  com.matrix.MatrixTest - Тест testAddInvalidDimensions выполнен.
+14:05:13.514 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrix выполнен.
+14:05:13.515 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+14:05:13.515 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyScalar выполнен.
+14:05:13.516 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtractInvalidDimensions выполнен.
+14:05:13.517 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrixEdgeCases выполнен.
+14:05:13.518 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+14:05:13.518 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantThreeByThree выполнен.
+14:05:13.520 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantNonSquareMatrix выполнен.
+14:05:13.521 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantOneByOne выполнен.
+14:05:13.524 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 5 finished executing tests.
+14:42:22.820 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+14:42:33.063 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Открыта вкладка загрузки файлов.
+14:42:48.756 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Загрузите матрицы!
+14:42:51.929 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix1.txt
+14:42:51.932 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix2.txt
+14:42:51.932 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Матрицы успешно загружены.
+14:42:53.139 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+14:42:53.140 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Выполнена операция создания вкладок.
+14:42:56.125 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+14:42:56.126 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Выполнена операция создания вкладок.
+14:42:58.291 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Нажата кнопка 'Определитель'.
+14:42:58.291 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Вычисление определителей.
+14:42:58.292 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+14:42:58.293 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+14:43:06.830 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Завершение приложения.
+14:45:14.781 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+14:45:21.688 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 1 started executing tests.
+14:45:21.816 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatricesInvalidDimensions выполнен.
+14:45:21.820 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+14:45:21.821 [Test worker] INFO  com.matrix.MatrixTest - Тест testAdd выполнен.
+14:45:21.822 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+14:45:21.823 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtract выполнен.
+14:45:21.824 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+14:45:21.824 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatrices выполнен.
+14:45:21.825 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithData выполнен.
+14:45:21.826 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithDimensions выполнен.
+14:45:21.827 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminant выполнен.
+14:45:21.828 [Test worker] INFO  com.matrix.MatrixTest - Тест testAddInvalidDimensions выполнен.
+14:45:21.830 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrix выполнен.
+14:45:21.832 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+14:45:21.832 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyScalar выполнен.
+14:45:21.834 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtractInvalidDimensions выполнен.
+14:45:21.835 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrixEdgeCases выполнен.
+14:45:21.836 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+14:45:21.837 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantThreeByThree выполнен.
+14:45:21.838 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantNonSquareMatrix выполнен.
+14:45:21.840 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantOneByOne выполнен.
+14:45:21.844 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 1 finished executing tests.
+14:48:58.635 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 2 started executing tests.
+14:48:58.767 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatricesInvalidDimensions выполнен.
+14:48:58.771 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+14:48:58.772 [Test worker] INFO  com.matrix.MatrixTest - Тест testAdd выполнен.
+14:48:58.773 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+14:48:58.774 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtract выполнен.
+14:48:58.775 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+14:48:58.775 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatrices выполнен.
+14:48:58.776 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithData выполнен.
+14:48:58.777 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithDimensions выполнен.
+14:48:58.778 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminant выполнен.
+14:48:58.779 [Test worker] INFO  com.matrix.MatrixTest - Тест testAddInvalidDimensions выполнен.
+14:48:58.780 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrix выполнен.
+14:48:58.781 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+14:48:58.781 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyScalar выполнен.
+14:48:58.782 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtractInvalidDimensions выполнен.
+14:48:58.783 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrixEdgeCases выполнен.
+14:48:58.784 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+14:48:58.784 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantThreeByThree выполнен.
+14:48:58.785 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantNonSquareMatrix выполнен.
+14:48:58.786 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantOneByOne выполнен.
+14:48:58.789 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 2 finished executing tests.
+14:49:05.225 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+14:49:08.624 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Открыта вкладка загрузки файлов.
+14:49:17.695 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix1.txt
+14:49:17.697 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix2.txt
+14:49:17.697 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Матрицы успешно загружены.
+14:49:20.791 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+14:49:20.792 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Выполнена операция создания вкладок.
+14:51:14.044 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+14:51:22.101 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 3 started executing tests.
+14:51:22.228 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatricesInvalidDimensions выполнен.
+14:51:22.233 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+14:51:22.234 [Test worker] INFO  com.matrix.MatrixTest - Тест testAdd выполнен.
+14:51:22.235 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+14:51:22.235 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtract выполнен.
+14:51:22.236 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+14:51:22.237 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatrices выполнен.
+14:51:22.238 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithData выполнен.
+14:51:22.239 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithDimensions выполнен.
+14:51:22.240 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminant выполнен.
+14:51:22.242 [Test worker] INFO  com.matrix.MatrixTest - Тест testAddInvalidDimensions выполнен.
+14:51:22.243 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrix выполнен.
+14:51:22.244 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+14:51:22.244 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyScalar выполнен.
+14:51:22.245 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtractInvalidDimensions выполнен.
+14:51:22.246 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrixEdgeCases выполнен.
+14:51:22.247 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+14:51:22.247 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantThreeByThree выполнен.
+14:51:22.249 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantNonSquareMatrix выполнен.
+14:51:22.250 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantOneByOne выполнен.
+14:51:22.253 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 3 finished executing tests.
+14:52:15.252 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+14:52:16.789 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Завершение приложения.
+14:59:23.920 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 4 started executing tests.
+14:59:24.040 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatricesInvalidDimensions выполнен.
+14:59:24.045 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+14:59:24.045 [Test worker] INFO  com.matrix.MatrixTest - Тест testAdd выполнен.
+14:59:24.047 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+14:59:24.047 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtract выполнен.
+14:59:24.048 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+14:59:24.048 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatrices выполнен.
+14:59:24.049 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithData выполнен.
+14:59:24.050 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithDimensions выполнен.
+14:59:24.051 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminant выполнен.
+14:59:24.052 [Test worker] INFO  com.matrix.MatrixTest - Тест testAddInvalidDimensions выполнен.
+14:59:24.053 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrix выполнен.
+14:59:24.054 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+14:59:24.054 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyScalar выполнен.
+14:59:24.056 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtractInvalidDimensions выполнен.
+14:59:24.057 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrixEdgeCases выполнен.
+14:59:24.057 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+14:59:24.058 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantThreeByThree выполнен.
+14:59:24.059 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantNonSquareMatrix выполнен.
+14:59:24.059 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantOneByOne выполнен.
+14:59:24.062 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 4 finished executing tests.
+15:00:38.620 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+15:05:08.606 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+15:05:15.239 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 5 started executing tests.
+15:05:15.370 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatricesInvalidDimensions выполнен.
+15:05:15.376 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+15:05:15.377 [Test worker] INFO  com.matrix.MatrixTest - Тест testAdd выполнен.
+15:05:15.379 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+15:05:15.379 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtract выполнен.
+15:05:15.381 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+15:05:15.381 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatrices выполнен.
+15:05:15.383 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithData выполнен.
+15:05:15.385 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithDimensions выполнен.
+15:05:15.386 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminant выполнен.
+15:05:15.388 [Test worker] INFO  com.matrix.MatrixTest - Тест testAddInvalidDimensions выполнен.
+15:05:15.389 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrix выполнен.
+15:05:15.391 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+15:05:15.391 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyScalar выполнен.
+15:05:15.393 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtractInvalidDimensions выполнен.
+15:05:15.394 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrixEdgeCases выполнен.
+15:05:15.396 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+15:05:15.396 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantThreeByThree выполнен.
+15:05:15.397 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantNonSquareMatrix выполнен.
+15:05:15.398 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantOneByOne выполнен.
+15:05:15.402 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 5 finished executing tests.
+15:06:16.004 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 6 started executing tests.
+15:06:16.124 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatricesInvalidDimensions выполнен.
+15:06:16.128 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+15:06:16.129 [Test worker] INFO  com.matrix.MatrixTest - Тест testAdd выполнен.
+15:06:16.130 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+15:06:16.130 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtract выполнен.
+15:06:16.131 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+15:06:16.131 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatrices выполнен.
+15:06:16.132 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithData выполнен.
+15:06:16.134 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithDimensions выполнен.
+15:06:16.135 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminant выполнен.
+15:06:16.137 [Test worker] INFO  com.matrix.MatrixTest - Тест testAddInvalidDimensions выполнен.
+15:06:16.138 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrix выполнен.
+15:06:16.139 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+15:06:16.139 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyScalar выполнен.
+15:06:16.140 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtractInvalidDimensions выполнен.
+15:06:16.141 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrixEdgeCases выполнен.
+15:06:16.142 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+15:06:16.142 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantThreeByThree выполнен.
+15:06:16.143 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantNonSquareMatrix выполнен.
+15:06:16.144 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantOneByOne выполнен.
+15:06:16.147 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 6 finished executing tests.
+15:06:59.299 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 7 started executing tests.
+15:06:59.424 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatricesInvalidDimensions выполнен.
+15:06:59.429 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+15:06:59.430 [Test worker] INFO  com.matrix.MatrixTest - Тест testAdd выполнен.
+15:06:59.431 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+15:06:59.431 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtract выполнен.
+15:06:59.432 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+15:06:59.433 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatrices выполнен.
+15:06:59.434 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithData выполнен.
+15:06:59.435 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithDimensions выполнен.
+15:06:59.436 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminant выполнен.
+15:06:59.437 [Test worker] INFO  com.matrix.MatrixTest - Тест testAddInvalidDimensions выполнен.
+15:06:59.438 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrix выполнен.
+15:06:59.440 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+15:06:59.440 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyScalar выполнен.
+15:06:59.441 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtractInvalidDimensions выполнен.
+15:06:59.442 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrixEdgeCases выполнен.
+15:06:59.442 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+15:06:59.442 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantThreeByThree выполнен.
+15:06:59.444 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantNonSquareMatrix выполнен.
+15:06:59.444 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantOneByOne выполнен.
+15:06:59.447 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 7 finished executing tests.
+15:08:04.679 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+15:08:13.383 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+15:08:17.070 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Завершение приложения.
+15:11:28.630 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 8 started executing tests.
+15:11:28.751 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatricesInvalidDimensions выполнен.
+15:11:28.756 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+15:11:28.757 [Test worker] INFO  com.matrix.MatrixTest - Тест testAdd выполнен.
+15:11:28.758 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+15:11:28.758 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtract выполнен.
+15:11:28.759 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+15:11:28.760 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatrices выполнен.
+15:11:28.761 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithData выполнен.
+15:11:28.762 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithDimensions выполнен.
+15:11:28.763 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminant выполнен.
+15:11:28.764 [Test worker] INFO  com.matrix.MatrixTest - Тест testAddInvalidDimensions выполнен.
+15:11:28.765 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrix выполнен.
+15:11:28.766 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+15:11:28.766 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyScalar выполнен.
+15:11:28.767 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtractInvalidDimensions выполнен.
+15:11:28.768 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrixEdgeCases выполнен.
+15:11:28.769 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+15:11:28.769 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantThreeByThree выполнен.
+15:11:28.770 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantNonSquareMatrix выполнен.
+15:11:28.771 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantOneByOne выполнен.
+15:11:28.774 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 8 finished executing tests.
+15:12:04.850 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 9 started executing tests.
+15:12:04.971 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatricesInvalidDimensions выполнен.
+15:12:04.976 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+15:12:04.977 [Test worker] INFO  com.matrix.MatrixTest - Тест testAdd выполнен.
+15:12:04.978 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+15:12:04.978 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtract выполнен.
+15:12:04.979 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+15:12:04.979 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatrices выполнен.
+15:12:04.980 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithData выполнен.
+15:12:04.981 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithDimensions выполнен.
+15:12:04.982 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminant выполнен.
+15:12:04.983 [Test worker] INFO  com.matrix.MatrixTest - Тест testAddInvalidDimensions выполнен.
+15:12:04.984 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrix выполнен.
+15:12:04.985 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+15:12:04.985 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyScalar выполнен.
+15:12:04.986 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtractInvalidDimensions выполнен.
+15:12:04.987 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrixEdgeCases выполнен.
+15:12:04.988 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+15:12:04.988 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantThreeByThree выполнен.
+15:12:04.989 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantNonSquareMatrix выполнен.
+15:12:04.990 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantOneByOne выполнен.
+15:12:04.993 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 9 finished executing tests.
+15:12:24.585 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 10 started executing tests.
+15:12:24.712 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatricesInvalidDimensions выполнен.
+15:12:24.717 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+15:12:24.718 [Test worker] INFO  com.matrix.MatrixTest - Тест testAdd выполнен.
+15:12:24.719 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+15:12:24.719 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtract выполнен.
+15:12:24.720 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+15:12:24.720 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatrices выполнен.
+15:12:24.721 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithData выполнен.
+15:12:24.722 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithDimensions выполнен.
+15:12:24.723 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminant выполнен.
+15:12:24.724 [Test worker] INFO  com.matrix.MatrixTest - Тест testAddInvalidDimensions выполнен.
+15:12:24.725 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrix выполнен.
+15:12:24.726 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+15:12:24.726 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyScalar выполнен.
+15:12:24.727 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtractInvalidDimensions выполнен.
+15:12:24.728 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrixEdgeCases выполнен.
+15:12:24.728 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+15:12:24.728 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantThreeByThree выполнен.
+15:12:24.730 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantNonSquareMatrix выполнен.
+15:12:24.730 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantOneByOne выполнен.
+15:12:24.733 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 10 finished executing tests.
+15:12:30.168 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 11 started executing tests.
+15:12:30.291 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatricesInvalidDimensions выполнен.
+15:12:30.295 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+15:12:30.296 [Test worker] INFO  com.matrix.MatrixTest - Тест testAdd выполнен.
+15:12:30.297 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+15:12:30.297 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtract выполнен.
+15:12:30.299 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+15:12:30.299 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatrices выполнен.
+15:12:30.301 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithData выполнен.
+15:12:30.302 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithDimensions выполнен.
+15:12:30.303 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminant выполнен.
+15:12:30.304 [Test worker] INFO  com.matrix.MatrixTest - Тест testAddInvalidDimensions выполнен.
+15:12:30.305 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrix выполнен.
+15:12:30.306 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+15:12:30.306 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyScalar выполнен.
+15:12:30.308 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtractInvalidDimensions выполнен.
+15:12:30.309 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrixEdgeCases выполнен.
+15:12:30.309 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+15:12:30.309 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantThreeByThree выполнен.
+15:12:30.310 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantNonSquareMatrix выполнен.
+15:12:30.311 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantOneByOne выполнен.
+15:12:30.314 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 11 finished executing tests.
+15:12:50.120 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 12 started executing tests.
+15:12:50.245 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatricesInvalidDimensions выполнен.
+15:12:50.251 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+15:12:50.252 [Test worker] INFO  com.matrix.MatrixTest - Тест testAdd выполнен.
+15:12:50.253 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+15:12:50.254 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtract выполнен.
+15:12:50.255 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+15:12:50.255 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatrices выполнен.
+15:12:50.256 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithData выполнен.
+15:12:50.257 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithDimensions выполнен.
+15:12:50.258 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminant выполнен.
+15:12:50.260 [Test worker] INFO  com.matrix.MatrixTest - Тест testAddInvalidDimensions выполнен.
+15:12:50.261 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrix выполнен.
+15:12:50.262 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+15:12:50.262 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyScalar выполнен.
+15:12:50.263 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtractInvalidDimensions выполнен.
+15:12:50.264 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrixEdgeCases выполнен.
+15:12:50.265 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+15:12:50.265 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantThreeByThree выполнен.
+15:12:50.266 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantNonSquareMatrix выполнен.
+15:12:50.267 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantOneByOne выполнен.
+15:12:50.270 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 12 finished executing tests.
+15:14:15.923 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+15:14:33.231 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 13 started executing tests.
+15:14:33.355 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatricesInvalidDimensions выполнен.
+15:14:33.359 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+15:14:33.360 [Test worker] INFO  com.matrix.MatrixTest - Тест testAdd выполнен.
+15:14:33.361 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+15:14:33.361 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtract выполнен.
+15:14:33.362 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+15:14:33.362 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatrices выполнен.
+15:14:33.363 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithData выполнен.
+15:14:33.364 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithDimensions выполнен.
+15:14:33.365 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminant выполнен.
+15:14:33.367 [Test worker] INFO  com.matrix.MatrixTest - Тест testAddInvalidDimensions выполнен.
+15:14:33.367 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrix выполнен.
+15:14:33.368 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+15:14:33.368 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyScalar выполнен.
+15:14:33.369 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtractInvalidDimensions выполнен.
+15:14:33.371 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrixEdgeCases выполнен.
+15:14:33.372 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+15:14:33.372 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantThreeByThree выполнен.
+15:14:33.373 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantNonSquareMatrix выполнен.
+15:14:33.374 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantOneByOne выполнен.
+15:14:33.377 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 13 finished executing tests.
+15:15:09.488 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+15:15:40.140 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+15:15:44.302 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Загрузите матрицы!
+08:57:00.253 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 1 started executing tests.
+08:57:00.381 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatricesInvalidDimensions выполнен.
+08:57:00.385 [Test worker] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+08:57:00.386 [Test worker] INFO  com.matrix.MatrixTest - Тест testAdd выполнен.
+08:57:00.388 [Test worker] INFO  com.matrix.Matrix - Операция вычитания матриц выполнена.
+08:57:00.388 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtract выполнен.
+08:57:00.389 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+08:57:00.389 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyMatrices выполнен.
+08:57:00.390 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithData выполнен.
+08:57:00.391 [Test worker] INFO  com.matrix.MatrixTest - Тест testConstructorWithDimensions выполнен.
+08:57:00.392 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminant выполнен.
+08:57:00.394 [Test worker] INFO  com.matrix.MatrixTest - Тест testAddInvalidDimensions выполнен.
+08:57:00.394 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrix выполнен.
+08:57:00.395 [Test worker] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+08:57:00.395 [Test worker] INFO  com.matrix.MatrixTest - Тест testMultiplyScalar выполнен.
+08:57:00.397 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubtractInvalidDimensions выполнен.
+08:57:00.398 [Test worker] INFO  com.matrix.MatrixTest - Тест testSubMatrixEdgeCases выполнен.
+08:57:00.399 [Test worker] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+08:57:00.399 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantThreeByThree выполнен.
+08:57:00.400 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantNonSquareMatrix выполнен.
+08:57:00.401 [Test worker] INFO  com.matrix.MatrixTest - Тест testDeterminantOneByOne выполнен.
+08:57:00.403 [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 1 finished executing tests.
+16:39:10.341 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+16:39:12.470 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Открыта вкладка загрузки файлов.
+16:39:24.359 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix1 (копия).txt
+16:39:24.361 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix2 (копия).txt
+16:39:24.361 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Матрицы успешно загружены.
+16:39:26.018 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция сложения матриц выполнена.
+16:39:26.019 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Выполнена операция создания вкладок.
+16:41:41.069 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Открыта вкладка загрузки файлов.
+16:41:47.443 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Выберите оба файла!
+16:41:53.564 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix3.txt
+16:41:53.566 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix3.txt
+16:41:53.566 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Матрицы успешно загружены.
+16:41:54.601 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Нажата кнопка 'Определитель'.
+16:41:54.602 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Вычисление определителей.
+16:41:54.605 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+16:41:54.606 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+16:42:23.930 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Открыта вкладка загрузки файлов.
+16:42:33.767 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix3.txt
+16:42:33.768 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix3.txt
+16:42:33.768 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Матрицы успешно загружены.
+16:42:34.832 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Нажата кнопка 'Определитель'.
+16:42:34.833 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Вычисление определителей.
+16:42:34.836 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+16:42:34.837 [JavaFX Application Thread] INFO  com.matrix.Matrix - Определитель матрицы вычислен.
+16:46:40.492 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Запуск приложения.
+16:46:41.598 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Открыта вкладка загрузки файлов.
+16:46:58.413 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix1 (копия).txt
+16:46:58.415 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix2 (копия).txt
+16:46:58.415 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Матрицы успешно загружены.
+16:46:59.317 [JavaFX Application Thread] INFO  com.matrix.Matrix - Операция умножения матриц выполнена.
+16:46:59.318 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Выполнена операция создания вкладок.
+16:49:19.084 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка при выполнении операции com.matrix.MatrixGUI$$Lambda/0x00000007c03e75c8@55ddeb18: Для сложения матрицы должны иметь одинаковую размерность.
+com.matrix.MatrixOperationException: Для сложения матрицы должны иметь одинаковую размерность.
+	at com.matrix.BaseMatrix.checkDimensions(BaseMatrix.java:59) ~[MatrixGradle-1.0-SNAPSHOT.jar:?]
+	at com.matrix.Matrix.add(Matrix.java:23) ~[MatrixGradle-1.0-SNAPSHOT.jar:?]
+	at com.matrix.MatrixGUI.handleMatrixOperation(MatrixGUI.java:158) ~[MatrixGradle-1.0-SNAPSHOT.jar:?]
+	at com.matrix.MatrixGUI.lambda$createMainToolBar$1(MatrixGUI.java:58) ~[MatrixGradle-1.0-SNAPSHOT.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-17.0.6-linux.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-17.0.6-linux.jar:?]
+	at javafx.scene.Node.fireEvent(Node.java:8792) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-17.0.6-linux.jar:?]
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:208) ~[javafx-controls-17.0.6-linux.jar:?]
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-17.0.6-linux.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-17.0.6-linux.jar:?]
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3897) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1878) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2623) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:557) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.glass.ui.View.notifyMouse(View.java:943) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.glass.ui.gtk.GtkApplication.lambda$runLoop$11(GtkApplication.java:290) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+16:49:19.089 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Для сложения матрицы должны иметь одинаковую размерность.
+16:49:30.762 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Открыта вкладка загрузки файлов.
+16:49:31.244 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка при выполнении операции com.matrix.MatrixGUI$$Lambda/0x00000007c03e75c8@55ddeb18: Для сложения матрицы должны иметь одинаковую размерность.
+com.matrix.MatrixOperationException: Для сложения матрицы должны иметь одинаковую размерность.
+	at com.matrix.BaseMatrix.checkDimensions(BaseMatrix.java:59) ~[MatrixGradle-1.0-SNAPSHOT.jar:?]
+	at com.matrix.Matrix.add(Matrix.java:23) ~[MatrixGradle-1.0-SNAPSHOT.jar:?]
+	at com.matrix.MatrixGUI.handleMatrixOperation(MatrixGUI.java:158) ~[MatrixGradle-1.0-SNAPSHOT.jar:?]
+	at com.matrix.MatrixGUI.lambda$createMainToolBar$1(MatrixGUI.java:58) ~[MatrixGradle-1.0-SNAPSHOT.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-17.0.6-linux.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-17.0.6-linux.jar:?]
+	at javafx.scene.Node.fireEvent(Node.java:8792) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-17.0.6-linux.jar:?]
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:208) ~[javafx-controls-17.0.6-linux.jar:?]
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-17.0.6-linux.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-17.0.6-linux.jar:?]
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3897) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1878) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2623) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:557) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.glass.ui.View.notifyMouse(View.java:943) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.glass.ui.gtk.GtkApplication.lambda$runLoop$11(GtkApplication.java:290) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+16:49:31.248 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Для сложения матрицы должны иметь одинаковую размерность.
+16:50:38.252 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка при выполнении операции com.matrix.MatrixGUI$$Lambda/0x00000007c04061d0@793696fc: Для вычитания матрицы должны иметь одинаковую размерность.
+com.matrix.MatrixOperationException: Для вычитания матрицы должны иметь одинаковую размерность.
+	at com.matrix.BaseMatrix.checkDimensions(BaseMatrix.java:59) ~[MatrixGradle-1.0-SNAPSHOT.jar:?]
+	at com.matrix.Matrix.subtract(Matrix.java:37) ~[MatrixGradle-1.0-SNAPSHOT.jar:?]
+	at com.matrix.MatrixGUI.handleMatrixOperation(MatrixGUI.java:158) ~[MatrixGradle-1.0-SNAPSHOT.jar:?]
+	at com.matrix.MatrixGUI.lambda$createMainToolBar$2(MatrixGUI.java:59) ~[MatrixGradle-1.0-SNAPSHOT.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-17.0.6-linux.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-17.0.6-linux.jar:?]
+	at javafx.scene.Node.fireEvent(Node.java:8792) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-17.0.6-linux.jar:?]
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:208) ~[javafx-controls-17.0.6-linux.jar:?]
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-17.0.6-linux.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-17.0.6-linux.jar:?]
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3897) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1878) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2623) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:557) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.glass.ui.View.notifyMouse(View.java:943) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.glass.ui.gtk.GtkApplication.lambda$runLoop$11(GtkApplication.java:290) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+16:50:38.255 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Для вычитания матрицы должны иметь одинаковую размерность.
+16:50:45.710 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Нажата кнопка 'Определитель'.
+16:50:45.711 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Вычисление определителей.
+16:50:45.713 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Ошибка при вычислении определителя.
+16:51:31.545 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Открыта вкладка загрузки файлов.
+16:51:38.856 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix1 (копия).txt
+16:51:38.858 [JavaFX Application Thread] INFO  com.matrix.MatrixLoader - Матрица загружена из файла: /home/xxh0l/Рабочий стол/Study/2024-2025/Курсовая Работа/MatrixGradle/testMatrix/matrix2 (копия).txt
+16:51:38.858 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Матрицы успешно загружены.
+16:51:40.803 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Нажата кнопка 'Определитель'.
+16:51:40.803 [JavaFX Application Thread] INFO  com.matrix.MatrixGUI - Вычисление определителей.
+16:51:40.804 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Ошибка при вычислении определителя.
+16:52:59.374 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка при выполнении операции com.matrix.MatrixGUI$$Lambda/0x00000007c03c9890@50e32536: Число столбцов первой матрицы должно совпадать с числом строк второй матрицы.
+com.matrix.MatrixOperationException: Число столбцов первой матрицы должно совпадать с числом строк второй матрицы.
+	at com.matrix.Matrix.multiply(Matrix.java:52) ~[MatrixGradle-1.0-SNAPSHOT.jar:?]
+	at com.matrix.MatrixGUI.handleMatrixOperation(MatrixGUI.java:158) ~[MatrixGradle-1.0-SNAPSHOT.jar:?]
+	at com.matrix.MatrixGUI.lambda$createMainToolBar$3(MatrixGUI.java:60) ~[MatrixGradle-1.0-SNAPSHOT.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-17.0.6-linux.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-17.0.6-linux.jar:?]
+	at javafx.scene.Node.fireEvent(Node.java:8792) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-17.0.6-linux.jar:?]
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:208) ~[javafx-controls-17.0.6-linux.jar:?]
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-17.0.6-linux.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-17.0.6-linux.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-17.0.6-linux.jar:?]
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3897) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1878) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2623) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:557) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.glass.ui.View.notifyMouse(View.java:943) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at com.sun.glass.ui.gtk.GtkApplication.lambda$runLoop$11(GtkApplication.java:290) ~[javafx-graphics-17.0.6-linux.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+16:52:59.377 [JavaFX Application Thread] ERROR com.matrix.MatrixGUI - Ошибка: Число столбцов первой матрицы должно совпадать с числом строк второй матрицы.
