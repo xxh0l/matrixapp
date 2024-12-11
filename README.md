@@ -20,17 +20,18 @@
 
 1. **Сборка проекта:** `./gradlew build`
 2. **Запуск Unit тестов:** `./gradlew clean test`
-3. **Сборка JAR файла:** `./gradlew shadowJar`
 4. **Запуск приложения:** `java -jar build/libs/MatrixApp.jar`
-4. **Тестовые матрицы находятся в директории testMatrix**
+* Тестовые матрицы находятся в директории testMatrix**
 
 
-## Запуск Jar Файла
+## Запуск jar-файла
 
 **Требования:** JDK 21.0.5
 
-На опреационных системах Windows и MacOS jar файл должен запускаться успешно. Если же возникают ошибки с библиотеками, который относятся к JavaFX, то необходимо скачать [JavaFX SDK](https://gluonhq.com/products/javafx/). После чего разорхивировать SDK и произвести запуск следующей командой:
-`java --module-path <путь_к_javafx_lib> --add-modules javafx.controls,javafx.fxml,... -jar <jar-файл>`
+* На опреационных системах Windows и MacOS jar файл должен запускаться успешно. Если же возникают ошибки с библиотеками, который относятся к JavaFX, то необходимо скачать [JavaFX SDK](https://gluonhq.com/products/javafx/). После чего разорхивировать SDK и произвести запуск следующей командой:
+* `java --module-path <путь_к_javafx_lib> --add-modules javafx.controls,javafx.fxml,... -jar <jar-файл>`
+
+* **Также можно скомпилировать jar-файл:** `./gradlew shadowJar`
 
 ## Структура проекта
 
