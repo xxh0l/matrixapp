@@ -30,7 +30,7 @@
 
 * На опреационных системах Windows и MacOS jar файл должен запускаться успешно. Если же возникают ошибки с библиотеками, который относятся к JavaFX, то необходимо скачать [JavaFX SDK](https://gluonhq.com/products/javafx/). После чего разорхивировать SDK и произвести запуск следующей командой:
 
-`java --module-path <путь_к_javafx_lib> --add-modules javafx.controls,javafx.fxml,... -jar <jar-файл>`
+`java --module-path <путь_к_javafx_lib> --add-modules javafx.controls,javafx.fxml -jar <jar-файл>`
 
 * **Также можно скомпилировать jar-файл:** `./gradlew shadowJar`
 
